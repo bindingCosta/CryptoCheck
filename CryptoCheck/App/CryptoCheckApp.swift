@@ -11,7 +11,7 @@ import SwiftUI
 struct CryptoCheckApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
